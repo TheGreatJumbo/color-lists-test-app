@@ -1,4 +1,5 @@
 # color-lists-test-app
+Тестовое задание на вакансию Frontend Developer (Vue.js) компании ПроКонтекст. Техническое задание: https://docs.google.com/document/d/1DMtjF6PxOwQKgIKhP4oQulnCmOZaRDdoed_zezAkX3o
 
 ## Project setup
 ```
